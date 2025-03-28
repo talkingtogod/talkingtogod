@@ -5,7 +5,7 @@
 <h3 align="center">A professional developer</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **cybersecurity**
 
 - - 💬 Want to ask me a question? **Join Discord**
  
@@ -27,4 +27,4 @@
 
 
 # Contact Me
-[![Discord Presence](https://lanyard.cnrad.dev/api/1252595424192368676)](https://discord.com/users/1225541313047560253)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1225541313047560253)](https://discord.com/users/1225541313047560253)
