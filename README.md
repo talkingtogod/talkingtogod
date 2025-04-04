@@ -1,6 +1,6 @@
 ### Hello World, I'm Midleg: 
 
-<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=xcatbear&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=talkingtogod&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
 
 <h1 align="center">
   <a target="_blank">
