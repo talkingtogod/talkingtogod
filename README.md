@@ -1,5 +1,7 @@
 ### Hello World, I'm Midleg: 
 
+<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=xcatbear&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
