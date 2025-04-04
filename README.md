@@ -67,9 +67,3 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talkingtogod&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
-
